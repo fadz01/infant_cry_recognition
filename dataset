@@ -1,1 +1,6 @@
-
+data/
+ ├── hunger/
+ ├── pain/
+ ├── sleepiness/
+ ├── discomfort/
+ └── normal/
