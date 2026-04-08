@@ -1,1 +1,1 @@
-
+BabyCry-Corp is a web-based application that allows users to upload raw audio recordings of their baby. The app automatically recognizes and classifies the reason for the cry, providing accurate insights, historical data, and personalized advice to help caregivers respond effectively.
