@@ -3,3 +3,6 @@ This project focuses on classifying infant cries (0–2 years) into five categor
 
 link for the app demostration in youtube:
 https://youtu.be/Pu4YXAngjHU?si=DeopxrEJVvqilZJ3
+
+link for the big numpy files:
+https://drive.google.com/drive/folders/1eN0c0aTPTPItSnNinD-gcaIlfjFFqqd0?usp=sharing
