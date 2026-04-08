@@ -2,7 +2,7 @@
 This project focuses on classifying infant cries (0–2 years) into five categories using a hybrid CNN-LSTM model. Audio features such as MFCC, Mel spectrogram, Tonnetz, and Delta are extracted to capture temporal and spectral patterns, helping caregivers better understand infant needs through AI.
 
 ## Demonstration Video
-link for the app demostration in youtube.
+link for the app demostration in youtube.                                                                                                                              
 Watch here: [Youtube Link](https://youtu.be/Pu4YXAngjHU?si=DeopxrEJVvqilZJ3)
 
 ## Numpy Files
